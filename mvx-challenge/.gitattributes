@@ -1,0 +1,4 @@
+break-lottery/* filter=lfs diff=lfs merge=lfs -text
+lottery-sc/* filter=lfs diff=lfs merge=lfs -text
+multi-token-contract/* filter=lfs diff=lfs merge=lfs -text
+subscription-contract/* filter=lfs diff=lfs merge=lfs -text
